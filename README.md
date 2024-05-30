@@ -26,13 +26,13 @@ pip install -r requirements.txt
 To run the maze solver, use the following command:
 
 ```bash
-python maze_solver.py
+python BFS & DFS Maze.py
 ```
 
 You can specify the maze file and the algorithm (BFS or DFS) to use:
 
 ```bash
-python maze_solver.py --maze_file path/to/maze.txt --algorithm bfs
+python BFS & DFS Maze.py --maze_file path/to/maze.txt --algorithm bfs
 ```
 
 ## Algorithms

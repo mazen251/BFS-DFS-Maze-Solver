@@ -5,11 +5,17 @@ This project is a Maze Solver that uses Breadth-First Search (BFS) and Depth-Fir
 
 ## Table of Contents
 
+- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Algorithms](#algorithms)
 - [Contributing](#contributing)
 - [Contact](#contact)
+
+
+## Demo
+
+![Demo](gitAssets/img.png)
 
 ## Installation
 
